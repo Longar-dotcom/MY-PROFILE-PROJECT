@@ -85,17 +85,18 @@ Future technologies planned:
 # Project Structure
 
 `bash
+
 MY-PROFILE-PROJECT
 │
 ├── index.html
-├── style.css
-├── script.js
+├── contactme.html
+├── register.html
 ├── images
-├── assets
+├── aboutme.html
 ├── projects
 ├── resume
 └── README.md
-``
+
 
 ---
 
