@@ -1,15 +1,15 @@
 
 # 👨‍💻 MY-PROFILE-PROJECT
 
-##  WELCOME!...
+## WELCOME!...
 
-Welcome to **MY-PROFILE-PROJECT** A professional personal portfolio website that represents my journey, skills, experiences, and vision in the world of technology and cybersecurity.
+Welcome to **MY-PROFILE-PROJECT**,  A professional personal portfolio website that represents my journey, skills, experiences, and vision in the world of technology and cybersecurity.
 
 This project reflects my growth from a young student with a passion for technology into an aspiring Fullstalk developer and Cybersecurity Analyst dedicated to creating secure digital environments, solving real-world problems, and empowering communities through technology.
 
 ---
 
-#  My Journey
+# My Journey
 
 My journey into technology, cybersecurity and Fullstalk developer began with curiosity, determination, and a strong desire to learn despite challenges along the way. Growing up as a refugee and facing difficult circumstances taught me resilience, adaptability, and the importance of education and digital empowerment.
 
@@ -26,7 +26,7 @@ This portfolio represents not only my technical abilities but also my personal g
 
 ---
 
-#  Project Purpose
+# Project Purpose
 
 The purpose of this project is to:
 
@@ -39,7 +39,7 @@ The purpose of this project is to:
 
 ---
 
-#  Features
+# Features
 
 This portfolio website includes:
 
@@ -63,7 +63,7 @@ This portfolio website includes:
 
 ---
 
-#  Technologies Used
+# Technologies Used
 
 The project was built using modern web technologies:
 
@@ -82,24 +82,24 @@ Future technologies planned:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 `bash
-MY-PROFILE-PROJECT/
+MY-PROFILE-PROJECT
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-├── assets/
-├── projects/
-├── resume/
+├── images
+├── assets
+├── projects
+├── resume
 └── README.md
 ``
 
 ---
 
-#  About Me
+# About Me
 
 ## John Longar Abuoch Longar
 
@@ -109,9 +109,9 @@ I believe technology can create opportunities, transform lives, and empower youn
 
 ---
 
-#  Skills & Expertise
+# Skills & Expertise
 
-##  Cybersecurity Skills
+## Cybersecurity Skills
 
 - Network Security
 - Vulnerability Assessment
@@ -121,7 +121,7 @@ I believe technology can create opportunities, transform lives, and empower youn
 - Risk Identification
 - Digital Safety Training
 
-##  Technical Skills
+## Technical Skills
 
 - HTML5
 - CSS3
@@ -142,7 +142,7 @@ I believe technology can create opportunities, transform lives, and empower youn
 
 ---
 
-#  Career Goals
+# Career Goals
 
 My goal is to become a professional cybersecurity expert capable of:
 
@@ -164,7 +164,7 @@ I am continuously learning through platforms such as:
 
 ---
 
-# 🏆 Achievements & Growth
+# Achievements & Growth
 
 - Developed personal cybersecurity and web projects
 - Built responsive websites and portfolio systems
@@ -174,7 +174,7 @@ I am continuously learning through platforms such as:
 
 ---
 
-#  Future Vision
+# Future Vision
 
 In the future, I aim to:
 
@@ -186,36 +186,36 @@ In the future, I aim to:
 
 ---
 
-#  Contact Information
+# Contact Information
 
 Feel free to connect and collaborate with me:
 
 - GitHub: https://github.com/Longar-dotcom
 - LinkedIn: www.linkedin.com/in/johnlongarabouchlongar
 - Email: longarjohnabuoch@gmail.com
-- Portfolio Website
+- Portfolio Website: https://my profile page.
 
 ---
 
-# ⭐ Support
+# Support
 
 If you find this project inspiring or helpful, feel free to:
 
-⭐ Star this repository  
-🍴 Fork the project  
-🤝 Connect with me  
-📢 Share feedback and suggestions
+Star this repository  
+Fork the project  
+Connect with me  
+Share feedback and suggestions
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and share it responsibly.
 
 ---
 
-# 🙏 Thank You
+# Thank You
 
-Thank you for visiting my portfolio project and being part of my journey toward success in technology and cybersecurity.
+Thank you for visiting my portfolio project and being part of my journey toward success in technology, Fullstalk developer and cybersecurity.
 
 > “Success is built through learning, consistency, resilience, and the courage to keep moving forward.”
