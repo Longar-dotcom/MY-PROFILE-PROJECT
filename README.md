@@ -39,7 +39,7 @@ The purpose of this project is to:
 
 ---
 
-# 🚀 Features
+#  Features
 
 This portfolio website includes:
 
@@ -63,7 +63,7 @@ This portfolio website includes:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 The project was built using modern web technologies:
 
@@ -99,7 +99,7 @@ MY-PROFILE-PROJECT/
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 ## John Longar Abuoch Longar
 
@@ -109,9 +109,9 @@ I believe technology can create opportunities, transform lives, and empower youn
 
 ---
 
-# 💡 Skills & Expertise
+#  Skills & Expertise
 
-## 🔐 Cybersecurity Skills
+##  Cybersecurity Skills
 
 - Network Security
 - Vulnerability Assessment
@@ -121,7 +121,7 @@ I believe technology can create opportunities, transform lives, and empower youn
 - Risk Identification
 - Digital Safety Training
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - HTML5
 - CSS3
@@ -130,7 +130,7 @@ I believe technology can create opportunities, transform lives, and empower youn
 - Responsive Web Design
 - Basic Linux Administration
 
-## 🤝 Professional Skills
+##  Professional Skills
 
 - Leadership
 - Team Collaboration
@@ -142,7 +142,7 @@ I believe technology can create opportunities, transform lives, and empower youn
 
 ---
 
-# 📈 Career Goals
+#  Career Goals
 
 My goal is to become a professional cybersecurity expert capable of:
 
@@ -174,7 +174,7 @@ I am continuously learning through platforms such as:
 
 ---
 
-# 🌐 Future Vision
+#  Future Vision
 
 In the future, I aim to:
 
@@ -186,11 +186,11 @@ In the future, I aim to:
 
 ---
 
-# 📬 Contact Information
+#  Contact Information
 
 Feel free to connect and collaborate with me:
 
-- GitHub: Longar-dotcom
+- GitHub: https://github.com/Longar-dotcom
 - LinkedIn: www.linkedin.com/in/johnlongarabouchlongar
 - Email: longarjohnabuoch@gmail.com
 - Portfolio Website
