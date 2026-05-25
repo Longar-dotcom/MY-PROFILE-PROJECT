@@ -1,2 +1,201 @@
 ﻿# MY-PROFILE-PROJECT
+ ### About Me 
+    <p>
+            My name is John Longar Abuoch. i am 26 years old, also I am a young South Sudanese who was born in 1999 during one of the most<br> difficult periods in the history of South Sudan. 
+            My childhood was deeply affected by war, famine, displacement, and insecurity that<br> spread across the entire country for many years. During this time, countless families lost their homes, 
+            loved ones, and livelihoods<br> because of the ongoing conflict. Many innocent people, especially young children, women, and the elderly, suffered greatly from<br> hunger, fear, violence, 
+            and lack of basic needs such as food, shelter, education, and healthcare. Growing up in such an environment<br> was extremely difficult because every day was uncertain, 
+            and survival itself was a challenge for many families.</p>
+        <p> 
+            As a child, I witnessed the struggles that my family and many other South Sudanese families went through because of the conflict.<br> 
+            Communities were constantly displaced, and people were forced to move from one place to another in search of safety and peace. The<br> war and famine created a painful situation where many children could not access education or live a normal childhood. 
+            Despite these<br> hardships, my family remained strong and continued to hope for a better future. The difficult experiences we faced taught me the<br> value of resilience, perseverance, and unity even at a very young age.
+            In 2010, when the situation in South Sudan became more<br> dangerous and challenging, my siblings, stepmother, and I were forced to leave our home country and seek refuge in Kenya. 
+            We<br> moved to Kakuma Refugee Camp, one of the largest refugee camps in the world, where thousands of refugees from different<br> countries were living after escaping war and conflict. 
+            Leaving our homeland was not easy because we had to abandon the life we once<br> knew and begin a completely new journey in a foreign environment. 
+            Although arriving in Kakuma brought us safety from the conflict,<br> life in the refugee camp was still very hard.</p>
+        <p>    
+            Living in Kakuma Refugee Camp  was also one of the most diffuilt things i have never imagine in life untill today because it came<br> with many challenges. 
+            Resources were limited, and many families struggled to meet their daily needs. Access to food, clean water,<br> healthcare, and proper shelter was often difficult. 
+            Life as a refugee required patience, courage, and determination because<br> opportunities were limited, and many people were trying to survive under the same difficult conditions. 
+            However, despite these<br> hardships, my family believed that education was the key to creating a better future.</p>
+        <p>    
+            I was determined to continue with my education, and with the little support of my family, I enrolled in school within the refugee<br> camp.
+            In 2011, I started my education at Shambe Primary School in Kakuma Refugee Camp. I began in Class One and continued my<br> studies with dedication and determination. 
+            Even though learning conditions were not always easy due to overcrowded classrooms and<br> limited educational resources, 
+            I remained focused on my studies because I understood the importance of education in transforming my<br> life and helping me achieve my dreams. Through hard work and commitment, 
+            I successfully completed my primary education in 2018<br> after finishing Class Eight.</p>
+        <p>    
+            After i completed my primary education, I continued with my studies at Greenlight refugees secondary school, where I enrolled in<br> 2019. 
+            i was very determined to pursue my secondary education and work hard to achieve my goalsand never despite the challenges<br> that come as being a refugee. 
+            i continued to study with dedication and perseverance, and in 2023, i successfully completed my<br> secondary education, after finishing my high school diploma. 
+            This achievement was a significant milestonre in my life, and it gave me<br> hope for a brighter future. despite the difficulties I faced as a refugee, 
+            I remained focused on my education and worked hard to<br> overcome the obstacles in my path.</p>
+        <p>    
+            My journey from South Sudan to Kakuma Refugee Camp has shaped me into a resilient, hardworking, and determined young person.<br> 
+            The challenges I experienced during my childhood taught me to appreciate every opportunity, remain hopeful during difficult times,<br> and work hard toward achieving my goals. 
+            Today, my story continues to inspire me to pursue education, personal growth, and<br> opportunities that can help me contribute positively to my community and support others facing similar struggles.
 
+        </p>
+        <h2><strong><em><u>MY EDUCATIONAL JOURNEY!......</u></em></strong></h2>
+        <p>
+               
+            I was determined to continue with my education, and with the little support of my family, I enrolled in school within the refugee<br> camp.
+            In 2011, I started my education at Shambe Primary School in Kakuma Refugee Camp. I began in Class One and continued my<br> studies with dedication and determination. 
+            Even though learning conditions were not always easy due to overcrowded classrooms and<br> limited educational resources, 
+            I remained focused on my studies because I understood the importance of education in transforming my<br> life and helping me achieve my dreams. Through hard work and commitment, 
+            I successfully completed my primary education in 2018<br> after finishing Class Eight.</p>
+        <p>    
+            After i completed my primary education, I continued with my studies at Greenlight refugees secondary school, where I enrolled in<br> 2019. 
+            i was very determined to pursue my secondary education and work hard to achieve my goalsand never despite the challenges<br> that come as being a refugee. 
+            i continued to study with dedication and perseverance, and in 2023, i successfully completed my<br> secondary education, after finishing my high school diploma. 
+            This achievement was a significant milestonre in my life, and it gave me<br> hope for a brighter future. despite the difficulties I faced as a refugee, 
+            I remained focused on my education and worked hard<br> to overcome the obstacles in my path.  
+        </p>
+        <p>
+            After finishing high school, I joined <a href="https://www.refugeelife.org/" target="_blank" title="Action for Refugee Life (AReL) is a refugee-led organization in Kakuma Refugee Camp, Kenya, focused on empowering refugees through cybersecurity, full stack development, digital skills training, mentorship, entrepreneurship, and career development programs. Click to learn more about AReL programs, mission, vision, and opportunities.">Action for Refugee Life (AReL)</a> in 2024 as a cybersecurity student, where I studied for one and a half years. 
+            <br>During this time, I gained foundational knowledge and practical skills in cybersecurity, including cyber hygiene, network security, vulnerability assessment,<br> and digital safety practices.
+        </p>
+        <p>
+            Currently, I have expanded my learning journey by joining a MERN Full Stack Development program, where I am continuing to build my skills in web development technologies such as MongoDB, Express.js, React, and Node.js. 
+            I am passionate about growing in both cybersecurity and software development, and I am committed to continuously improving my technical knowledge and problem-solving abilities.
+            I am excited about the opportunities that lie ahead of me and look forward applying my skills in a meaningful ways to contribute to tech community and support others who are on similar learning paths.
+            i am also  a hardworking and dedicated student who values education and always strives to achieve my goals and willing to learn new things and take on challenges that can help me grow both personally and professionally.
+        </p>
+        <h2><strong><em><u>THE CORE SKILLS I HAVE ACQUIRED!....</u></em></strong></h2>
+        <p>
+            After finishing high school, I joined Action for Refugees Life (AReL) in 2024 as a cybersecurity student, where I studied for one and a half years. <br>During this time, I gained foundational knowledge and practical skills in cybersecurity, including cyber hygiene, network security, vulnerability assessment, and digital safety practices.
+        </p>
+        <p>
+            Currently, I have expanded my learning journey by joining a MERN Full Stack Development program, where I am continuing to build my skills in web development technologies such as MongoDB, Express.js, React, and Node.js. I am passionate about growing in both cybersecurity and software development, and I am committed to continuously improving my technical knowledge and problem-solving abilities.
+            Throughout my educational journey, I have acquired a range of core skills that have helped me grow both personally and professionally.
+            In the field of cybersecurity, i have developed skills in cyber hygiene, network security, vulnerability assessment, and digital safety practices. These skills have equipped me with the knowledge to protect digital assets, identify potentialthreats, and implement security measurements to safeguard information and systems from cyber attacks and unauthorized access.
+            In addition to my cybersecurity skills, I have also gained proficiency in wed development technologies through my MERN Full Stack Development program. I have developed skills in MongoDB, Express.js, React, and Node.js which have enabled me to build dynamic and responsive wed applications. these skills have enabled me to create user-friendly interfaces, manage databases, and develop server-side applications,allowing ne to contribute to the development of innovative web solutions and enhance user experiences.
+
+        </p>
+        <h2><strong><u>EDUCATION & CERTIFICATIONS!</u></strong></h2>
+        <h4><strong><em><u>DIPLOMA..</u></em></strong></h4>
+        <p>
+            Cybersecurity Diploma | Action for Refugee Life (AReL) | 2024 - 2025<br>
+            MERN Full Stack Development Program | 2025 - Present
+        </p>
+        <h2><strong><u>PROJECTS</u></strong></h2>
+        <p><a href="https://net-whisper-scan.vercel.app/" target="_blank" title="NetWhisper Scanner - Professional Cybersecurity and Network Scanning Project. Features include port scanning, real-time network analysis, open port detection, cybersecurity learning tools, and web-based accessibility. Developed by John Longar Abuoch Longar using HTML, CSS, JavaScript, Node.js, and Vercel deployment.">
+                    "Open NetWhisper Scanner Full Project Information"</a>
+        </p>
+         <h4><strong><em><u>CERTIFICATIONS</u></em></strong></h4>
+        <p>
+            CompTIA Security+ (In Progress)<br>
+            Certified Ethical Hacker (CEH) (In Progress)
+        </p>
+        <h3><strong><em><u>SKILLS!</u></em></strong></h3>
+        <h4><strong><em><u>CORES SKILLS!....</u></em></strong></h4>
+        <ul>
+            <li>Network & System Security</li>
+            <li>Vulnerability Assessment</li>
+            <li>Penetration Testing</li>
+            <li>Cyber Hygiene Training</li>
+            <li>Threat Detection & Analysis</li>
+            <li>Linux & Windows Administration</li>
+            <li>Firewall & VPN Configuration</li>
+            <li>Security Awareness Training</li>
+            <li>Incident Response Basics</li>
+            <li>Problem-Solving & Critical Thinking</li>
+            <li>Leadership & Team Collaboration</li>
+            <li>Digital Literacy & Technical Support</li>
+            <li>Communication Skills</li>
+
+        </ul>
+        <h3><strong><em><u>TECHNICAL SKILLS!...</u></em></strong></h3>
+        <h5><strong><u>SECURITY TOOLS!..</u></strong></h5>
+        <ul>
+            <li>Nmap</li>
+            <li>Wireshark</li>
+            <li>Nessus</li>
+            <li>Metasploit</li>
+            <li>Metasploit</li>
+        </ul>
+        <h3><strong><em><u>WEB DEVELOPMENT TOOLS!...</u></em></strong></h3>
+        <h5><strong><u>FRONTEND DEVELOPMENT TOOLS!..</u></strong></h5>
+        <ul>
+            <li>Visual Studio Code</li>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>Bootstrap</li>
+            <li>React</li>
+            <li>JavaScript (ES6+)</li>
+        </ul>
+        <h5><strong><u>BACKEND DEVELOPMENT TOOLS!...</u></strong></h5>
+        <ul>
+            <li>Visual Studio Code</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MongoDB</li>
+        </ul>
+        <h5><strong><u>DATABASES MANAGEMENT!...</u></strong></h5>
+        <ul>
+            <li>MongoDB</li>
+            <li>MySQL</li>
+        </ul>
+### MY EXPERIENCES!...
+    <p><strong><u>CYBERSECURITY SPECIALIST $ ETHICAL HACKER...</u></strong></p>
+                     
+            <p>
+               <strong> Action For Refugees Life [AReL] - Kakuma Refugee Camp, Kenya
+                <br>
+                January 2025 - Present</strong><br>
+            <a href="https://www.refugeelife.org/" target="_blank" title="Action for Refugee Life (AReL) is a refugee-led organization in Kakuma Refugee Camp, Kenya, focused on empowering refugees through cybersecurity, full stack development, digital skills training, mentorship, entrepreneurship, and career development programs. Click to learn more about AReL programs, mission, vision, and opportunities.">
+                    Action for Refugee Life (AReL)
+            </a>
+            </p>
+            <h3><strong><u><em> Self-Learning & Practical Labs | 2025 – Present </em></u></strong></h3>
+            <p>
+                Conducted vulnerability assessments and basic penetration testing in controlled lab environments.<br>
+                Practiced network scanning, enumeration, and traffic analysis using cybersecurity tools.<br>
+                Configured and secured Windows and Linux systems.<br>
+                Improved understanding of cyber threats, attack vectors, and defensive techniques.<br>
+                Participated in online cybersecurity labs and hands-on practical exercises.<br>
+            </p>
+            <p>
+                Conduct comprehensive vulnerability assessments and penetration testing on organizational systems, networks, and<br> 
+                applications to identify security weaknesses and recommend remediation strategies.<br>
+                Utilize industry-standard tools such as Nmap, Nessus, and Wireshark to perform in depth security analysis and risk assessments.<br>
+                Implement and manage security controls, including firewalls, intrusion detection/prevention systems (IDS/IPS), and endpoint protection solutions to safeguard organizational assets.<br>
+                Monitor security events and incidents using Security Information and Event Management (SIEM) platforms, ensuring timely detection and response to potential threats.<br>
+                Collaborate with cross-functional teams to develop and enforce security policies, procedures, and best practices aligned with industry standards such as OWASP Top 10.<br>
+                Provide training and awareness programs to educate staff on cybersecurity best practices, fostering a culture of security awareness within the organization.
+                <br>   
+            </p>
+            <h3><strong><em><u>COMMUNITY LEADER & YOUTH REPRESENTATIVES!...</u></em></strong></h3>
+            <h4><strong><u>Kakuma Community Programs | 2 Years...</u></strong></h4>
+            <p>
+                <ul>
+                    <li>I led Young Youth Community Initiative association and mentorship activities in kakuma refugees camp, whereby i interact with alot of poeple from different diversities and united as one community and help each other to overcome the promlems we refugees are facing as youths.<br></li>
+                    <li>Organized awareness sessions on digital safety and responsible technology use.<br></li>
+                    <li>Collaborated with teams to solve community challenges and support youth development.<br></li>
+                    <li>Demonstrated leadership, communication, and advocacy skills in multicultural environments issues across the country.<br></li>
+                </ul>
+            </p>
+            <h3><strong><u>NURSERY TEACHER!....</u></strong></h3>
+            <h4><strong><u><em>Educational Institution | 1.5 Years</em></u></strong></h4>
+            <p>
+                <ul>
+                    <li>Managed classroom activities and supported child development.</li>
+                    <li>Developed patience, communication, organization, and teamwork skills.</li>
+                    <li>Maintained a safe and supportive learning environment.</li>
+                </ul>
+            </p>
+            <h3><strong><u><em>ADDITIONAL SKILLS & CERTIFICATIONS!...</em></u></strong></h3>
+            <p>
+                <ul>
+                 <li>CompTIA Security+ (In Progress)</li>
+                 <li>Certified Ethical Hacker (CEH) (In Progress)</li>
+                 <li>Strong understanding of cybersecurity principles, including cryptography, secure coding practices, and common application vulnerabilities.</li>
+                 <li>Proficient in using cybersecurity tools for vulnerability assessment, penetration testing, and security monitoring.</li>
+                 <li>Familiarity with identity and access management concepts, including multi-factor authentication and role-based access control.</li>
+                 <li>Analytical thinking, attention to detail, and effective problem-solving skills.</li>
+                 <li>Excellent communication skills for conveying complex technical issues to both technical and non-technical stakeholders.<br>
+                 <li>Ability to work collaboratively in cross-functional teams and adapt to evolving cybersecurity threats and technologies.<br>
+                 <li>Commitment to continuous learning and professional development in the cybersecurity field.<br>
+                </ul>
+            </p>
