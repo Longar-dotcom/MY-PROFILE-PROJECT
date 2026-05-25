@@ -3,9 +3,9 @@
 
 ##  WELCOME!...
 
-Welcome to **MY-PROFILE-PROJECT** — a professional personal portfolio website that represents my journey, skills, experiences, and vision in the world of technology and cybersecurity.
+Welcome to **MY-PROFILE-PROJECT** A professional personal portfolio website that represents my journey, skills, experiences, and vision in the world of technology and cybersecurity.
 
-This project reflects my growth from a young student with a passion for technology into an aspiring Cybersecurity Analyst dedicated to creating secure digital environments, solving real-world problems, and empowering communities through technology.
+This project reflects my growth from a young student with a passion for technology into an aspiring Fullstalk developer and Cybersecurity Analyst dedicated to creating secure digital environments, solving real-world problems, and empowering communities through technology.
 
 ---
 
