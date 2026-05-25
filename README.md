@@ -1,4 +1,4 @@
-# MY-PROFILE-PROJECT
+
 # 👨‍💻 MY-PROFILE-PROJECT
 
 ##  WELCOME!...
@@ -84,7 +84,7 @@ Future technologies planned:
 
 # 📂 Project Structure
 
-`bash
+```bash
 MY-PROFILE-PROJECT/
 │
 ├── index.html
