@@ -193,7 +193,7 @@ Feel free to connect and collaborate with me:
 - GitHub: https://github.com/Longar-dotcom
 - LinkedIn: www.linkedin.com/in/johnlongarabouchlongar
 - Email: longarjohnabuoch@gmail.com
-- Portfolio Website: https://my profile page.
+- Portfolio Website: https://myprofilepage.
 
 ---
 
