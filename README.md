@@ -67,9 +67,7 @@ This portfolio website includes:
 
 The project was built using modern web technologies:
 
-- **HTML5** — Structure and content
-- **CSS3** — Styling and responsive design
-- **JavaScript** — Interactivity and functionality
+- **HTML** — Structure and content
 - **Git & GitHub** — Version control and collaboration
 
 Future technologies planned:
@@ -87,7 +85,6 @@ Future technologies planned:
 `bash
 
 MY-PROFILE-PROJECT
-│
 ├── index.html
 ├── contactme.html
 ├── register.html
@@ -95,7 +92,7 @@ MY-PROFILE-PROJECT
 ├── aboutme.html
 ├── projects
 ├── resume
-└── README.md
+└─ README.md
 
 
 ---
