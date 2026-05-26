@@ -29,23 +29,14 @@ This portfolio represents not only my technical abilities but also my personal g
 ## Main Topics of My Profile Page Project
 
 ✔ Home Section – Introduction and welcome message  
-
 ✔ About Me – Background, education, and personal journey  
-
 ✔ Skills – Technical and professional skills in full-stack development and cybersecurity  
-
 ✔ Projects – Showcase of completed and ongoing projects  
-
-✔ Education – Academic background and learning experience at [Action for Refugees Life (AReL)](https://www.refugeelife.org/)  
-
+✔ Education – Academic background and learning experience at [Action for Refugees Life (AReL)][(https://www.refugeelife.org/)] 
 ✔ Career Goals – Future ambitions in technology and cybersecurity  
-
 ✔ Contact Section – Ways to connect and communicate  
-
 ✔ Portfolio/Experience – Practical work and development experience  
-
 ✔ Services or Interests – Areas of interest such as web development, cybersecurity, and programming  
-
 ✔ Social Media Links – Links to professional platforms and profiles
 
 ---
